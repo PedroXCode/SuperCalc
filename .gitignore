@@ -1,0 +1,21 @@
+# Compilación/CMake
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binarios
+SuperCalc
+SuperCalc.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.dll
+*.lib
+*.exp
+/Debug/
+/Release/
+/.vs/
+.vscode/
